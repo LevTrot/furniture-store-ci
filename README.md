@@ -1,6 +1,6 @@
 # Furniture Store API
 
-Учебный backend-проект магазина мебели на FastAPI, PostgreSQL и SQLAlchemy.
+Учебный backend-проект магазина мебели на Python, FastAPI, PostgreSQL и SQLAlchemy.
 
 ## Возможности
 
