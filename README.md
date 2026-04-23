@@ -1,6 +1,6 @@
 # Furniture Store API
 
-Учебный backend-проект магазина мебели на Python, FastAPI, PostgreSQL и SQLAlchemy.
+Backend-проект магазина мебели на Python, FastAPI, PostgreSQL и SQLAlchemy.
 
 ## Возможности
 
@@ -22,7 +22,6 @@
 - `Dockerfile` — сборка Docker-образа
 - `docker-compose.yml` — запуск приложения и PostgreSQL
 - `.env` — локальные переменные окружения
-- `.env.example` — пример переменных окружения
 
 ## Требования
 
@@ -35,7 +34,7 @@
 
 ### 1. Скопировать пример окружения
 ```bash
-cp .env.example .env
+cp .env
 ```
 
 ### 2. Запустить приложение
